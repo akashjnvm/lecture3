@@ -1,0 +1,24 @@
+*{
+    margin: 0px auto;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:lightgray
+}
+#main{
+    width:95%;
+    background-color: white;
+    height: 300px;
+}
+#header{
+    padding: 30px 50px;
+}
+#menu{
+    background-color: aqua;
+    height: 400px;
+}
+#footer{
+    background-color: crimson;
+    height: 30px;
+    color: white;
+}
